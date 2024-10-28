@@ -1,0 +1,2 @@
+rootProject.name = "encoding2"
+

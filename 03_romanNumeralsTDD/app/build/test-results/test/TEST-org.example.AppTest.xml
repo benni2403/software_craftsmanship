@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.AppTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2024-12-10T13:04:44" hostname="Benni" time="0.069">
+  <properties/>
+  <testcase name="test401to499()" classname="org.example.AppTest" time="0.02"/>
+  <testcase name="test901to999()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test100()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test400()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test900()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="testSmallerThan1()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test1000()" classname="org.example.AppTest" time="0.002"/>
+  <testcase name="test1to3()" classname="org.example.AppTest" time="0.0"/>
+  <testcase name="test5to8()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test10()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test14()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="testTensTo90()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test500to800()" classname="org.example.AppTest" time="0.002"/>
+  <testcase name="test4()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test9()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test3000to3999()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test2000to2999()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test300to399()" classname="org.example.AppTest" time="0.0"/>
+  <testcase name="test11to13()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test15to18()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test19to20()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test21to30()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test101to300()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="test1001to1999()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="testRandomNumbers()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="testNumbersAbove3999()" classname="org.example.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
